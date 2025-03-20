@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Nadsson Oliveira
-- 👀 my goal's to become a backend developer 
-- 🌱 I’m currently learning PHP and MySQL
-- 📫 You can contact me by sending email
+
 
 
 <!---
