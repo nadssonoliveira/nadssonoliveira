@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nadsson Oliveira
-
+- I'm currently learning Java
 
 
 <!---
