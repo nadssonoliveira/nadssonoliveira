@@ -1,7 +1,6 @@
 ## Bem Vindo  😁
 
-##### Olá, me chamo Nadsson e sou estudante de Sistemas de Informação. Atualmente, estou estudando para ingressar no mercado de trabalho e para aprimorar minhas habilidades. No momento, meu foco está em Java, buscando aprofundar meus conhecimentos sobre da linguagem.
-
+##### Olá, me chamo Nadsson e sou estudante de Sistemas de Informação. Atualmente, estou estudando para ingressar no mercado de trabalho e para aprimorar minhas habilidades. 
 
 
 ### Linguagens de Marcação e Estilo ✅
