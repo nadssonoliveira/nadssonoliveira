@@ -33,6 +33,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-### GitHub Stats ✅
 
-![Nadsson Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadssonoliveira&theme=gotham&show_icons=true)
